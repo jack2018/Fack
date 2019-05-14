@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\drawable_setting.png.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\xml_tts_setting.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\xml\\tts_setting.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_item_identify_result.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\item_identify_result.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_isvdemo.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\isvdemo.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_isedemo.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\isedemo.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_ifly_layout_mnotice_image.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\ifly_layout_mnotice_image.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_iatdemo.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\iatdemo.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\drawable_user.png.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_isrdemo.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\isrdemo.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_group_header_layout.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\group_header_layout.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_activity_result_identify.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\activity_result_identify.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_understander.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\understander.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\drawable_setting_p.png.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\drawable\\setting_p.png"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_title.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_ttsdemo.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\ttsdemo.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\xml_ise_settings.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\xml\\ise_settings.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_online_facedemo.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\online_facedemo.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_item_group.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\item_group.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\xml_iat_setting.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\xml\\iat_setting.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\drawable_list_bg_color.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\drawable\\list_bg_color.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_activity_face_identify.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\activity_face_identify.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\drawable_main_setting_btn_np.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\drawable\\main_setting_btn_np.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_activity_vocal_identify.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\activity_vocal_identify.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_activity_group_manager.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\activity_group_manager.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_no_photo.png.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\drawable-hdpi\\no_photo.png"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\layout_list_items.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\layout\\list_items.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\xml_understand_setting.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\xml\\understand_setting.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\build\\intermediates\\res\\merged\\release\\xml_url_setting.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\speechDemo\\src\\main\\res\\xml\\url_setting.xml"
+    }
+]

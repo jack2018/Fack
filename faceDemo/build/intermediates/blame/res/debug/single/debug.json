@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_online_demo.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\src\\main\\res\\layout\\activity_online_demo.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\build\\intermediates\\res\\merged\\debug\\drawable_no_photo.png.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\src\\main\\res\\drawable\\no_photo.png"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_offline_demo.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\src\\main\\res\\layout\\activity_offline_demo.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_demo.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\src\\main\\res\\layout\\activity_video_demo.xml"
+    },
+    {
+        "merged": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\src\\main\\res\\menu\\main.xml"
+    }
+]

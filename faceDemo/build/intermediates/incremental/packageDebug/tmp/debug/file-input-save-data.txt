@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue May 14 11:14:58 CST 2019
+1.base=E\:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=NATIVE_RESOURCE
+0.path=classes.dex
+0.set=DEX
+0.base=E\:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.path=lib/armeabi/libmsc.so

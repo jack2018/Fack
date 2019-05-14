@@ -1,0 +1,4 @@
+#Tue May 14 11:14:58 CST 2019
+base.0=E\:\\worldelete\\facecheck\\sample\\Fack\\faceDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
